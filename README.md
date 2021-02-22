@@ -1,3 +1,3 @@
 ## placementsubjects
 
-# This repository contains detailed syllabus to study for placements
+### This repository contains detailed syllabus to study for placements
